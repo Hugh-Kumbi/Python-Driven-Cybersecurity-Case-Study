@@ -50,12 +50,13 @@ The security analyst team at ABC Association tasked me with automating their log
 | maria | 9hfks12 |
 | keith | sdfhksd2 |
 
-User 1: Device1
 This information forms the basis for validating login attempts.
 
-Implementation Notes
-Python was chosen for its robust string manipulation and logical processing capabilities.
-Special attention was given to ensure that username validation is case-sensitive.
+**Implementation Notes**
+
+  * Python was chosen for its robust string manipulation and logical processing capabilities.
+  * Special attention was given to ensure that username validation is case-sensitive.
+
 This automated solution minimizes manual intervention while maintaining high security and accuracy in the authentication process.
 
 
