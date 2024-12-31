@@ -35,19 +35,20 @@ The system needed to check the following conditions in sequence:
 2. **Device Validation:**
 
   * If the username is approved, the system verifies the device ID.
-  * If the device ID matches the assigned device for the user, the system prints:
-    *`<device_id> is the assigned device for <username>.`*
-  * If the device ID does not match, the system prints:
-    *`<device_id> is not the assigned device for <username>.`*
+  * If the device ID matches the assigned device for the user, the system prints: 
+*`<device_id> is the assigned device for <username>.`*
+  * If the device ID does not match, the system prints: 
+*`<device_id> is not the assigned device for <username>.`*
 
 **Input Details**
 * **Approved Users and Devices List:**
-                                        | Yes | No |
-                                        | :-: | :-: |
-                                        | vanessa | 245ahw |
-                                        | kevin | fkdjs238 |
-                                        | maria | 9hfks12 |
-                                        | keith | sdfhksd2 |
+  
+| Users | Devices |
+| :-: | :-: |
+| vanessa | 245ahw |
+| kevin | fkdjs238 |
+| maria | 9hfks12 |
+| keith | sdfhksd2 |
 
 User 1: Device1
 This information forms the basis for validating login attempts.
