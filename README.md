@@ -61,9 +61,18 @@ This automated solution minimizes manual intervention while maintaining high sec
 
 
 
+***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
+## Proposed Resolution
 
+- **Exercise 1:** [Automating Login Process.](https://github.com/Hugh-Kumbi/Python-Driven-Cybersecurity-Case-Study/blob/main/1.1%20Hugh_Automating%20Login%20Process.md)
+- **Exercise 2:** [Analyzing Logins](https://github.com/Hugh-Kumbi/Python-Driven-Cybersecurity-Case-Study/blob/main/1.2%20Hugh_Analyzing%20Logins.md)
+- **Exercise 3:** [Using Regular Expression to Find Patterns](https://github.com/Hugh-Kumbi/Python-Driven-Cybersecurity-Case-Study/blob/main/1.3%20Hugh_Using%20Regular%20Expression%20to%20Find%20Patterns.md)
 
+## Supporting Materials
+
+- **Algorithm for File Updates in Python:** []()
+- **Instructions for Including Python Code:** []()
 
 
 
