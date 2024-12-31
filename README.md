@@ -20,18 +20,15 @@ The complete solutions and implementations are documented in the notebook titled
 
 1.1 **Automating Login Process**
 
--
+- In this activity, I focused on automating the login process for a more efficient and secure user authentication system. This involved writing Python scripts that automated the login procedure, ensuring that only authorized users could access critical resources. I utilized conditional statements to verify user credentials, and implemented a secure method for tracking failed login attempts. This process helped streamline user access management and enhanced the overall security of the system.
 
 1.2 **Analyzing Logins**
 
--
+-In part of this activity, I analyzed login attempts to identify potential security risks and suspicious behavior. This involved examining login logs to detect unusual patterns, such as multiple failed login attempts or login attempts from unrecognized IP addresses. I utilized Python to automate the analysis process, parsing the log files and flagging entries that exhibited signs of potential brute-force attacks or unauthorized access. By conducting this analysis, I contributed to improving the organization’s ability to detect and respond to security threats in a timely manner.
 
 1.3 **Using Regular Expression to Find Patterns**
 
--
-
-
-
+- In this part of the activity, I used regular expressions to identify patterns in security data, such as login attempts and device identifiers. By writing regular expression patterns, I was able to efficiently extract relevant information from large sets of log data. This process involved searching for specific formats, such as IP addresses and device IDs, and flagging any suspicious or unusual patterns that could indicate potential security threats. Through this approach, I enhanced the organization's ability to quickly detect and respond to security risks by automating the process of pattern recognition in the data.
 
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
@@ -43,8 +40,4 @@ The complete solutions and implementations are documented in the notebook titled
 
 ## Supporting Materials
 
-- **Algorithm for File Updates in Python:** []()
-- **Instructions for Including Python Code:** []()
-
-
-
+- `None`
