@@ -61,7 +61,7 @@ For example, if the **current day logins** is 2 and the **average day logins** i
 * **User Data:**
 
 | Username | Current_day_logins |  Average_day_logins |
-| :- | :- | :- |
+| :-: | :-: | :-: |
 | vanessa | 10 | 5 |
 | kevin | 8 | 6 |
 | maria | 4 | 1 |
