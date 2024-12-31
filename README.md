@@ -24,7 +24,7 @@ The complete solutions and implementations are documented in the notebook titled
 
 1.2 **Analyzing Logins**
 
--In part of this activity, I analyzed login attempts to identify potential security risks and suspicious behavior. This involved examining login logs to detect unusual patterns, such as multiple failed login attempts or login attempts from unrecognized IP addresses. I utilized Python to automate the analysis process, parsing the log files and flagging entries that exhibited signs of potential brute-force attacks or unauthorized access. By conducting this analysis, I contributed to improving the organization’s ability to detect and respond to security threats in a timely manner.
+- In part of this activity, I analyzed login attempts to identify potential security risks and suspicious behavior. This involved examining login logs to detect unusual patterns, such as multiple failed login attempts or login attempts from unrecognized IP addresses. I utilized Python to automate the analysis process, parsing the log files and flagging entries that exhibited signs of potential brute-force attacks or unauthorized access. By conducting this analysis, I contributed to improving the organization’s ability to detect and respond to security threats in a timely manner.
 
 1.3 **Using Regular Expression to Find Patterns**
 
