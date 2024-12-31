@@ -57,7 +57,9 @@ The security analyst team at ABC Association has asked me to analyze login activ
 For example, if the **current day logins** is 2 and the **average day logins** is 1, the **login ratio** will be 2/1 = 2, which is not high enough to trigger an alert. However, if the **current day logins** is 4, the login ratio would be 4/1 = 4, triggering an alert.
 
 ### Input Details
+
 * **User Data:**
+
 | Username | Current_day_logins |  Average_day_logins |
 | :- | :- | :- |
 | vanessa | 10 | 5 |
