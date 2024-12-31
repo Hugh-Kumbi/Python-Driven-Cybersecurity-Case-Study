@@ -89,26 +89,28 @@ The security analyst team at XYZ Corp requested an investigation into patterns b
 1. **Find the Hex Signature:** The malware signature `0x9ACDAB` needs to be extracted and analyzed from the provided data.
 2. **Find Device IDs Starting with** `r15`: Extract and display device IDs that start with r15 from the list:
 
-9x482kt
-6oa6m6u
-253be78
-r15u9q5
-ac742a1
-x3463ac
-g07h55q
-41j1u2e
-i4l56nq
-r262c36
-ii286fq
-r151dm4
-r15xk9h
-1270t3o
-2j33krk
-081qc9t
-zh86b2l
-67bv8fy
-r159r1u
-42dr56i
+| Device IDs |
+| :-: |
+| 9x482kt |
+| 6oa6m6u |
+| 253be78 |
+| r15u9q5 |
+| ac742a1 |
+| x3463ac |
+| g07h55q |
+| 41j1u2e |
+| i4l56nq |
+| r262c36 |
+| ii286fq |
+| r151dm4 |
+| r15xk9h |
+| 1270t3o |
+| 2j33krk |
+| 081qc9t |
+| zh86b2l |
+| 67bv8fy |
+| r159r1u |
+| 42dr56i |
 
 3. **Find and Analyze IP Addresses:** Identify valid IP addresses in the form `192.xxx.xxx` from the following logs:
 
