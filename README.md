@@ -22,13 +22,13 @@ The security analyst team at ABC Association tasked me with automating their log
 
 **Task Overview**
 
-The system needed to check the following conditions in sequence:
+**The system needed to check the following conditions in sequence:**
 
 1. **User Validation:**
 
-  * If the username matches the approved users list (case-sensitive), the system prints:
+  * If the username matches the approved users list (case-sensitive), the system prints: <br />
     *`<username> is approved.`*
-  * If the username does not match, the system prints:
+  * If the username does not match, the system prints: <br />
     *`<username> is not approved to access the system.`*
   * In this case, the system halts further checks for that username.
 
