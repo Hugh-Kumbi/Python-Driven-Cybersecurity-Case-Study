@@ -26,18 +26,18 @@ The security analyst team at ABC Association tasked me with automating their log
 
 1. **User Validation:**
 
-  * If the username matches the approved users list (case-sensitive), the system prints: <br />
+   * If the username matches the approved users list (case-sensitive), the system prints: <br />
     *`<username> is approved.`*
-  * If the username does not match, the system prints: <br />
+   * If the username does not match, the system prints: <br />
     *`<username> is not approved to access the system.`*
-  * In this case, the system halts further checks for that username.
+   * In this case, the system halts further checks for that username.
 
 2. **Device Validation:**
 
-  * If the username is approved, the system verifies the device ID.
-  * If the device ID matches the assigned device for the user, the system prints: <br />
+   * If the username is approved, the system verifies the device ID.
+   * If the device ID matches the assigned device for the user, the system prints: <br />
 *`<device_id> is the assigned device for <username>.`*
-  * If the device ID does not match, the system prints: <br />
+   * If the device ID does not match, the system prints: <br />
 *`<device_id> is not the assigned device for <username>.`*
 
 **Input Details**
