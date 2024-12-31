@@ -35,9 +35,9 @@ The system needed to check the following conditions in sequence:
 2. **Device Validation:**
 
   * If the username is approved, the system verifies the device ID.
-  * If the device ID matches the assigned device for the user, the system prints: 
+  * If the device ID matches the assigned device for the user, the system prints: <br />
 *`<device_id> is the assigned device for <username>.`*
-  * If the device ID does not match, the system prints: 
+  * If the device ID does not match, the system prints: <br />
 *`<device_id> is not the assigned device for <username>.`*
 
 **Input Details**
