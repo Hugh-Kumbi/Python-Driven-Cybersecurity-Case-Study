@@ -33,7 +33,7 @@ The security analyst team at ABC Association tasked me with automating their log
 | vanessa | 245ahw |
 | kevin | fkdjs238 |
 | maria | 9hfks12 |
-| keith | sdfhksd2 |
+| tamara | sdfhksd2 |
 
 This information forms the basis for validating login attempts.
 
@@ -67,7 +67,7 @@ For example, if the **current day logins** is 2 and the **average day logins** i
 | vanessa | 10 | 5 |
 | kevin | 8 | 6 |
 | maria | 4 | 1 |
-| keith | 7 | 3 |
+| tamara | 7 | 3 |
 
 ### Approach
 
