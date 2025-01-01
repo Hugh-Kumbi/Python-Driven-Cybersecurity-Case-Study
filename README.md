@@ -44,9 +44,6 @@ The case study aims to highlight the effectiveness of Python in automating cyber
 
 - `None`
 
-
-<br>
-
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Hugh-Kumbi/Python-Driven-Cybersecurity-Case-Study/blob/main/LICENSE) file for details.
