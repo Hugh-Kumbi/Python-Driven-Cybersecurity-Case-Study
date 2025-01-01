@@ -42,6 +42,9 @@ The complete solutions and implementations are documented in the notebook titled
 
 - `None`
 
+
+<br>
+
 ## License
 
-This project is licensed under the MIT License - see the [MIT License]([LICENSE](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License - see the [MIT License](https://github.com/Hugh-Kumbi/Python-Driven-Cybersecurity-Case-Study/blob/main/LICENSE) file for details.
