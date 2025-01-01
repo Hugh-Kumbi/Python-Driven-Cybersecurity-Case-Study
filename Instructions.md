@@ -10,7 +10,7 @@ This project presents three key scenarios that I developed and customized to dem
 2. **Analyzing Login Data:** Leveraging Python to gain insights and detect anomalies in login records.
 3. **Identifying Patterns with Regular Expressions:** Using Python's regex capabilities to uncover and analyze patterns within the data.
 
-The complete solutions and implementations are documented in the notebook titled **"Streamlined Security with Python Case Study.ipynb."**
+The complete solutions and implementations are documented in the notebook titled **"[Streamlined Security with Python Case Study.ipynb.](https://github.com/Hugh-Kumbi/Python-Driven-Cybersecurity-Case-Study/blob/main/1.4%20Hugh_Streamlined_Security_with_Python_Case_Study.ipynb)"**
 
 ## Scenario 1: Automating the Login Process
 
