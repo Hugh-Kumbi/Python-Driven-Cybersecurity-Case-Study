@@ -41,3 +41,7 @@ The complete solutions and implementations are documented in the notebook titled
 ## Supporting Materials
 
 - `None`
+
+## License
+
+This project is licensed under the MIT License - see the [MIT License]([LICENSE](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/LICENSE)) file for details.
