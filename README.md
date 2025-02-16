@@ -8,11 +8,11 @@ This case study illustrates the application of Python programming to enhance cyb
 
 **Key Components:**
 
-1. Automated Login Processes: Development of Python scripts to streamline and automate login procedures, reducing manual intervention and potential errors.
+1. **Automated Login Processes:** Development of Python scripts to streamline and automate login procedures, reducing manual intervention and potential errors.
 
-2. Data Analysis: Comprehensive analysis of login data to identify patterns, anomalies, and potential security threats.
+2. **Data Analysis:** Comprehensive analysis of login data to identify patterns, anomalies, and potential security threats.
 
-3. Regular Expressions: Utilization of regular expressions (regex) to parse and extract meaningful information from complex data sets, aiding in the detection of irregularities.
+3. **Regular Expressions:** Utilization of regular expressions (regex) to parse and extract meaningful information from complex data sets, aiding in the detection of irregularities.
 
 ## Objective 
 
